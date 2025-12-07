@@ -20,3 +20,17 @@
 </div>
 
 ## Table of Contents
+
+
+## Citation
+
+If you find RCL is useful in your research or applications, please consider giving us a star 🌟 and citing our work.
+
+```bibtex
+@article{chen2024empowering,
+  title={Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning},
+  author={Chen, Dongjie and Patwari, Kartik and Lai, Zhengfeng and Zhu, Xiaoguang and Cheung, Sen-ching and Chuah, Chen-Nee},
+  journal={arXiv preprint arXiv:2405.18376},
+  year={2024}
+}
+```

@@ -1,0 +1,17 @@
+# Core training dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+Pillow>=9.0.0
+
+# MLLM inference scripts (optional — only needed for mllm_inference_scripts/)
+# Hugging Face Transformers (BLIP-2, InstructBLIP)
+transformers>=4.35.0
+tqdm>=4.60.0
+sentence-transformers>=2.2.0
+
+# LLaVA: install from the official repo
+#   pip install git+https://github.com/haotian-liu/LLaVA.git
+# ShareGPT4V: install from the official repo
+#   pip install git+https://github.com/InternLM/InternLM-XComposer.git

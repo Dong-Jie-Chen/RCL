@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/Dong-Jie-Chen/RCL)
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://kartikp7.github.io/reliability-based_curriculum_learning/)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.18376-b31b1b.svg)](https://arxiv.org/abs/2405.18376)
 
 <p align="center">

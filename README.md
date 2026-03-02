@@ -249,10 +249,11 @@ This codebase builds on several open-source works. We thank their authors:
 If you find RCL useful in your research or applications, please consider giving us a star 🌟 and citing our work:
 
 ```bibtex
-@article{chen2024empowering,
+@inproceedings{chen2026empowering,
   title={Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning},
   author={Chen, Dongjie and Patwari, Kartik and Lai, Zhengfeng and Zhu, Xiaoguang and Cheung, Sen-ching and Chuah, Chen-Nee},
-  journal={arXiv preprint arXiv:2405.18376},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={4262--4272},
+  year={2026}
 }
 ```
